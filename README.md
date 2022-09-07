@@ -1,0 +1,2 @@
+# musicmidibot
+Python Music Bot
